@@ -38,6 +38,6 @@ Flight duration
 Hyperparameter tuning
 XGBoost implementation
 Deployment using Streamlit
-- Hyperparameter tuning
-- XGBoost implementation
-- Deployment using Streamlit
+
+## Certification
+Completed as part of the British Airways Data Science Job Simulation by Forage.
